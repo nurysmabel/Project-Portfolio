@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\Universidad Dominico Americano\Cuatrimestre 2020-C3\Lenguaje de Programacion II\Practica 3 - LINQ to SQL\Suplidores3\Suplidores3\obj\Debug\Suplidores3.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Universidad Dominico Americano\Cuatrimestre 2020-C3\Lenguaje de Programacion II\Practica 3 - LINQ to SQL\Suplidores3\Suplidores3\obj\Debug\Suplidores3.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Universidad Dominico Americano\Cuatrimestre 2020-C3\Lenguaje de Programacion II\Practica 3 - LINQ to SQL\Suplidores3\Suplidores3\obj\Debug\Suplidores3.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Universidad Dominico Americano\Cuatrimestre 2020-C3\Lenguaje de Programacion II\Practica 3 - LINQ to SQL\Suplidores3\Suplidores3\obj\Debug\Suplidores3.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Universidad Dominico Americano\Cuatrimestre 2020-C3\Lenguaje de Programacion II\Practica 3 - LINQ to SQL\Suplidores3\Suplidores3\bin\Debug\Suplidores3.exe.config
+C:\Users\Usuario\Desktop\Universidad Dominico Americano\Cuatrimestre 2020-C3\Lenguaje de Programacion II\Practica 3 - LINQ to SQL\Suplidores3\Suplidores3\bin\Debug\Suplidores3.exe
+C:\Users\Usuario\Desktop\Universidad Dominico Americano\Cuatrimestre 2020-C3\Lenguaje de Programacion II\Practica 3 - LINQ to SQL\Suplidores3\Suplidores3\bin\Debug\Suplidores3.pdb
+C:\Users\Usuario\Desktop\Universidad Dominico Americano\Cuatrimestre 2020-C3\Lenguaje de Programacion II\Practica 3 - LINQ to SQL\Suplidores3\Suplidores3\obj\Debug\Suplidores3.exe
+C:\Users\Usuario\Desktop\Universidad Dominico Americano\Cuatrimestre 2020-C3\Lenguaje de Programacion II\Practica 3 - LINQ to SQL\Suplidores3\Suplidores3\obj\Debug\Suplidores3.pdb
+C:\Users\Usuario\Desktop\Universidad Dominico Americano\Cuatrimestre 2020-C3\Lenguaje de Programacion II\Practica 3 - LINQ to SQL\Suplidores3\Suplidores3\obj\Debug\Suplidores3.Data.View.MenuPrincipal.resources
+C:\Users\Usuario\Desktop\Universidad Dominico Americano\Cuatrimestre 2020-C3\Lenguaje de Programacion II\Practica 3 - LINQ to SQL\Suplidores3\Suplidores3\obj\Debug\Suplidores3.Data.View.frmSuplidor.resources
+C:\Users\Usuario\Desktop\Universidad Dominico Americano\Cuatrimestre 2020-C3\Lenguaje de Programacion II\Practica 3 - LINQ to SQL\Suplidores3\Suplidores3\obj\Debug\Suplidores3.Data.View.frmCrear.resources
+C:\Users\Usuario\Desktop\Universidad Dominico Americano\Cuatrimestre 2020-C3\Lenguaje de Programacion II\Practica 3 - LINQ to SQL\Suplidores3\Suplidores3\obj\Debug\Suplidores3.Data.View.frmBorrar.resources
+C:\Users\Usuario\Desktop\Universidad Dominico Americano\Cuatrimestre 2020-C3\Lenguaje de Programacion II\Practica 3 - LINQ to SQL\Suplidores3\Suplidores3\obj\Debug\Suplidores3.Data.View.frmBuscarRnc.resources

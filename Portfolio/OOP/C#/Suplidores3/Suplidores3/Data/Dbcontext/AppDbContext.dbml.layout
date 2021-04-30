@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="AppDbContext">
+  <DataContextMoniker Name="/AppDbContextDataContext" />
+  <nestedChildShapes>
+    <classShape Id="8e19869a-73f4-4868-92f1-a7dc26090e00" absoluteBounds="4.25, 0.75, 2, 2.5401025390625">
+      <DataClassMoniker Name="/AppDbContextDataContext/Suplidore" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cf923fbf-131d-4493-b923-f8570b3cdec6" absoluteBounds="4.2650000000000006, 1.21, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="LP2" Class="AppDbContextDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-6151SHL;Initial Catalog=LP2;Integrated Security=True" SettingsObjectName="Suplidores3.Properties.Settings" SettingsPropertyName="LP2ConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Suplidores" Member="Suplidores">
+    <Type Name="Suplidore">
+      <Column Name="EmpresaId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="NombreEmpresa" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="PersonaRepresentante" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="RNC" Type="System.String" DbType="VarChar(15) NOT NULL" CanBeNull="false" />
+      <Column Name="Direccion" Type="System.String" DbType="VarChar(500) NOT NULL" CanBeNull="false" />
+      <Column Name="Telefono" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="ProveedorEstado" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="RegistroProveedor" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Estado" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+    <DeleteFunction FunctionId="FunctionId1">
+      <Argument Parameter="rnc" Member="RNC" />
+    </DeleteFunction>
+  </Table>
+  <Function Id="FunctionId1" Name="dbo.SoftDelete" Method="SoftDelete">
+    <Parameter Name="rnc" Type="System.String" DbType="VarChar(15)" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>
