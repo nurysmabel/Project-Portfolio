@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\Universidad Dominico Americano\Cuatrimestre 2020-C3\Lenguaje de Programacion II\Primer Parcial\PrimerParcialLP2\PrimerParcialLP2\obj\Debug\PrimerParcialLP2.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Universidad Dominico Americano\Cuatrimestre 2020-C3\Lenguaje de Programacion II\Primer Parcial\PrimerParcialLP2\PrimerParcialLP2\obj\Debug\PrimerParcialLP2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Universidad Dominico Americano\Cuatrimestre 2020-C3\Lenguaje de Programacion II\Primer Parcial\PrimerParcialLP2\PrimerParcialLP2\bin\Debug\PrimerParcialLP2.exe.config
+C:\Users\Usuario\Desktop\Universidad Dominico Americano\Cuatrimestre 2020-C3\Lenguaje de Programacion II\Primer Parcial\PrimerParcialLP2\PrimerParcialLP2\bin\Debug\PrimerParcialLP2.exe
+C:\Users\Usuario\Desktop\Universidad Dominico Americano\Cuatrimestre 2020-C3\Lenguaje de Programacion II\Primer Parcial\PrimerParcialLP2\PrimerParcialLP2\bin\Debug\PrimerParcialLP2.pdb
+C:\Users\Usuario\Desktop\Universidad Dominico Americano\Cuatrimestre 2020-C3\Lenguaje de Programacion II\Primer Parcial\PrimerParcialLP2\PrimerParcialLP2\obj\Debug\PrimerParcialLP2.exe
+C:\Users\Usuario\Desktop\Universidad Dominico Americano\Cuatrimestre 2020-C3\Lenguaje de Programacion II\Primer Parcial\PrimerParcialLP2\PrimerParcialLP2\obj\Debug\PrimerParcialLP2.pdb
